@@ -1,0 +1,82 @@
+<DocTYPE!html>
+
+<html>
+    
+    <head> 
+    <meta charset="UTF-8">
+        <meta name="viewport" content= "width=device-width, intial-scale = 1.0">
+            <title>Mutual Aid</title>
+		<link rel="stylesheet" type="text/css" href="text.css">
+		<link rel="stylesheet" type="text/css" href="Color.css">
+        <link rel="stylesheet" type="flex.html" href=".flex.html">
+	</head>
+
+            <body>
+				<div>
+				
+				<Header>
+		<h1> Mutual Aid Homepage</h1>
+		
+		<div class= " Mutual Aid examples">
+	  	<a href="https://tr.ee/hI1-elyiZ4"> Link to networks</a>
+		<a href = "https://d1fdloi71mui9q.cloudfront.net/2rTvRG53TcOu3owgUcIQ_sat%20food%20distro%20eng.JPG.pdf"> Content</a>
+		</div>
+		
+		
+		<nav> 
+		
+		<ul>
+		<li><a href="Index.html">Home</a></li>
+		<li><a href="Content.hmtl">Contact US</a></li>
+		<li><a href="Content.hmtl">Content</a></li>
+			</ul>
+		</nav>
+			</Header>
+					
+					<section> 
+					
+				   <article>
+		
+					<h2> What is Mutual Aid? </h2>
+					   <style>
+                           Section {
+                               display:flex;
+                           }
+					   
+					   
+					   
+					   </style>
+			<p> Mutual aid is a solidarity-based support where communities unite against a common struggle. They take on the responsibility of caring for each other, rather than leaving individuals to fend for themselves. Aid is offered in a spirit of solidarity and reciprocity, with a larger aim towards liberation and progress for all.</p>
+			
+			<p>In a mutual aid model, there are no conditions on who receives help and everyone is seen as equal, with people working cooperatively to meet the needs of all within a community. In essence, charity responds to the effects of inequality, while mutual aid seeks to both meet materials need and address root causes. </p>
+					</article>
+					
+					<article>
+				
+						<h3>About US </h3>	
+                        <style>
+                            Section {
+                                display:flex;
+                            }
+                        </style>
+				<p> Through mutual aid efforts, community building events, and community advocacy, as a community together we seek to foster an inclusive counterculture- one whereby the people's interests and wellbeing is preserved, especially the most marginalized in our community.</p>
+                    <p>Through an abolitionist, anti-racist, anti-capitalist, anti-hierarchial framework, our work aims to empower our community in serving as the catalyst for change in all of South East LA.</p>
+					</article>
+					
+					<article>
+			
+							<h4>Volunteering And Getting Involved<b> </b></h4>
+				<p>This page will explain how folks can get involved in their communities and/or start something new. You can contact the volunteer list to sign up and share your avaliability and roles on how you can help.</p>
+				
+				<p>We take care of US! Through coordination with local food banks and other mutual aid groups, we have opportunities to share resources such as prepared meals and fresh produce to feed our own communities. </p>
+		
+					</article>
+					
+					</section>
+					
+				</div>
+	           </body>
+	
+	
+				</html>
+		

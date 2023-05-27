@@ -1,0 +1,21 @@
+p {
+	color:black;
+		font-family:serif;
+}
+
+article p{
+	color:black;
+}
+
+.bolden p{
+	color:black;
+}
+
+body {
+	background-color:azure;
+	
+}
+
+article {
+	background-color: aliceblue;
+}
